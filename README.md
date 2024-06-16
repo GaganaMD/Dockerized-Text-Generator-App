@@ -1,0 +1,1 @@
+Dockerized text generator application
